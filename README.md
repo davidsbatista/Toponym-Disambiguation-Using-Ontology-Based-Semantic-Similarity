@@ -1,5 +1,5 @@
-Toponyms disambiguation using Geo-Net-PT02
-==========================================
+Toponyms disambiguation (Geo-Net-PT02)
+======================================
 
 This is code to populate the database with Information Content, perform several semantic similarity measures, and perform experiments using a dataset of hand-annotated toponyms.
 
