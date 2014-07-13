@@ -1,0 +1,16 @@
+annotations found: 
+Beja LOC:ADM 32033
+Beja LOC:ADM 32033
+Portugal PAI:ADM 418745
+Grândola LOC:ADM 352859
+Beja LOC:ADM 32033
+
+number of branches found:  1
+
+precision for each branch: 
+(Beja LOC:ADM 32033,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.947
+(Beja LOC:ADM 32033,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.947
+(Portugal PAI:ADM 418745,Portugal PAI http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418745) = 1.0
+(Grândola LOC:ADM 352859,Grândola CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#131) = 0.917
+(Beja LOC:ADM 32033,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.947
+overall branch precision:  0.9516

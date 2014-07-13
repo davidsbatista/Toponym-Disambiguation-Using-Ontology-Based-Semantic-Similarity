@@ -1,0 +1,16 @@
+annotations found: 
+Coimbra DST:ADM 3949
+Vila de Rei CON:ADM 320
+Vila de Rei CON:ADM 320
+Coimbra DST:ADM 3949
+
+number of branches found:  1
+
+precision for each branch: 
+(Coimbra DST:ADM 3949,Coimbra DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3949) = 1.0
+(Vila de Rei CON:ADM 320,Vila de Rei CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#320) = 1.0
+(Vila de Rei CON:ADM 320,Vila de Rei CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#320) = 1.0
+(Coimbra DST:ADM 3949,Coimbra DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3949) = 1.0
+overall branch precision:  1.0
+
+

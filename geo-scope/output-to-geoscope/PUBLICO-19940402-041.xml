@@ -1,0 +1,16 @@
+annotations found: 
+Borba LOC:ADM 109459
+Borba LOC:ADM 109459
+Évora DST:ADM 3950
+Borba LOC:ADM 109459
+
+number of branches found:  1
+
+precision for each branch: 
+(Borba LOC:ADM 109459,Borba CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#62) = 0.902
+(Borba LOC:ADM 109459,Borba CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#62) = 0.902
+(Évora DST:ADM 3950,Évora DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3950) = 1.0
+(Borba LOC:ADM 109459,Borba CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#62) = 0.902
+overall branch precision:  0.9265
+
+

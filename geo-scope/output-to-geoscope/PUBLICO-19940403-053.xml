@@ -1,0 +1,18 @@
+annotations found: 
+Paialvo FRG:ADM 3201
+Tomar CON:ADM 299
+Paialvo FRG:ADM 3201
+Paialvo FRG:ADM 3201
+Paialvo FRG:ADM 3201
+
+number of branches found:  1
+
+precision for each branch: 
+(Paialvo FRG:ADM 3201,Paialvo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#340742) = 0.851
+(Tomar CON:ADM 299,Tomar CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#299) = 1.0
+(Paialvo FRG:ADM 3201,Paialvo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#340742) = 0.851
+(Paialvo FRG:ADM 3201,Paialvo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#340742) = 0.851
+(Paialvo FRG:ADM 3201,Paialvo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#340742) = 0.851
+overall branch precision:  0.8808
+
+

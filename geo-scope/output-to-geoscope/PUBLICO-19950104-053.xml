@@ -1,0 +1,38 @@
+annotations found: 
+Forte da Casa LOC:ADM 247630
+Vialonga LOC:ADM 248827
+Póvoa de Santa Iria LOC:ADM 247958
+Forte da Casa LOC:ADM 247630
+Forte da Casa LOC:ADM 247630
+Póvoa de Santa Iria LOC:ADM 247958
+Póvoa de Santa Iria LOC:ADM 247958
+Forte da Casa LOC:ADM 247630
+Forte da Casa FRG:ADM 3547
+Forte da Casa FRG:ADM 3547
+Póvoa de Santa Iria LOC:ADM 247958
+Forte da Casa LOC:ADM 247630
+Forte da Casa LOC:ADM 247630
+Forte da Casa LOC:ADM 247630
+Forte da Casa LOC:ADM 247630
+
+number of branches found:  1
+
+precision for each branch: 
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+(Vialonga LOC:ADM 248827,Vialonga LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#248827) = 1.0
+(Póvoa de Santa Iria LOC:ADM 247958,Póvoa de Santa Iria LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247958) = 1.0
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+(Póvoa de Santa Iria LOC:ADM 247958,Póvoa de Santa Iria LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247958) = 1.0
+(Póvoa de Santa Iria LOC:ADM 247958,Póvoa de Santa Iria LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247958) = 1.0
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+(Forte da Casa FRG:ADM 3547,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 0.855
+(Forte da Casa FRG:ADM 3547,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 0.855
+(Póvoa de Santa Iria LOC:ADM 247958,Póvoa de Santa Iria LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247958) = 1.0
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+(Forte da Casa LOC:ADM 247630,Forte da Casa LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#247630) = 1.0
+overall branch precision:  0.980666666667
+
+

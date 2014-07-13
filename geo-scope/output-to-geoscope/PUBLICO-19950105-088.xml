@@ -1,0 +1,17 @@
+annotations found: 
+Setúbal LOC:ADM 371672
+22 de Dezembro AVE:ADM 371904
+5 de Outubro AVE:ADM 371909
+Jaime Cortesão AVE:ADM 371815
+Chamusca LOC:ADM 328296
+Setúbal LOC:ADM 371672
+Setúbal LOC:ADM 371672
+
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(22 de Dezembro AVE:ADM 371904,22 de Dezembro AVE http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#371904) = 1.0
+(5 de Outubro AVE:ADM 371909,5 de Outubro RUA http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#408158) = 0.827
+(Jaime Cortesão AVE:ADM 371815,Jaime Cortesão AVE http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#371815) = 1.0
+(Chamusca LOC:ADM 328296,Chamusca CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#88) = 0.919
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+overall branch precision:  0.939285714286

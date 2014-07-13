@@ -1,0 +1,22 @@
+annotations found: 
+Faro LOC:ADM 121279
+Loulé LOC:ADM 125214
+Portimão LOC:ADM 128797
+Loulé LOC:ADM 125214
+Portimão LOC:ADM 128797
+Loulé LOC:ADM 125214
+Portimão LOC:ADM 128797
+
+number of branches found:  1
+
+precision for each branch: 
+(Faro LOC:ADM 121279,Faro DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3951) = 0.953
+(Loulé LOC:ADM 125214,Loulé CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#147) = 0.94
+(Portimão LOC:ADM 128797,Portimão CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#237) = 0.933
+(Loulé LOC:ADM 125214,Loulé CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#147) = 0.94
+(Portimão LOC:ADM 128797,Portimão CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#237) = 0.933
+(Loulé LOC:ADM 125214,Loulé CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#147) = 0.94
+(Portimão LOC:ADM 128797,Portimão CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#237) = 0.933
+overall branch precision:  0.938857142857
+
+

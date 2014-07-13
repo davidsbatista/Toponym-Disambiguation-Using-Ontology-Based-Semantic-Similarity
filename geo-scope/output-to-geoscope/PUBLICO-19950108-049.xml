@@ -1,0 +1,17 @@
+annotations found: 
+Aveiro CON:ADM 45
+Torreira FRG:ADM 2188
+São Jacinto FRG:ADM 693
+Lisboa LOC:ADM 196518
+Torreira FRG:ADM 2188
+Murtosa CON:ADM 188
+Aveiro CON:ADM 45
+
+(Aveiro CON:ADM 45,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 1.0
+(Torreira FRG:ADM 2188,Torreira LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#16679) = 0.861
+(São Jacinto FRG:ADM 693,São Jacinto LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#10085) = 0.869
+(Lisboa LOC:ADM 196518,Lisboa DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3965) = 0.957
+(Torreira FRG:ADM 2188,Torreira LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#16679) = 0.861
+(Murtosa CON:ADM 188,Murtosa CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#188) = 1.0
+(Aveiro CON:ADM 45,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 1.0
+overall branch precision:  0.935428571429

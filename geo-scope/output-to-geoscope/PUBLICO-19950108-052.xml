@@ -1,0 +1,14 @@
+annotations found: 
+Pelariga FRG:ADM 2537
+Pombal CON:ADM 229
+Leiria DST:ADM 3964
+Pombal CON:ADM 229
+
+number of branches found:  2
+
+precision for each branch: 
+(Pelariga FRG:ADM 2537,Pelariga FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#2537) = 1.0
+(Pombal CON:ADM 229,Pombal CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#229) = 1.0
+(Leiria DST:ADM 3964,Leiria DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3964) = 1.0
+(Pombal CON:ADM 229,Pombal CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#229) = 1.0
+overall branch precision:  1.0

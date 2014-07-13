@@ -1,0 +1,1138 @@
+52 files to process
+output-to-geoscope/PUBLICO-19950103-057.xml
+output-to-geoscope/PUBLICO-19950107-107.xml
+output-to-geoscope/PUBLICO-19950105-088.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950107-124.xml
+output-to-geoscope/PUBLICO-19950107-114.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950104-056.xml
+output-to-geoscope/PUBLICO-19950105-103.xml
+output-to-geoscope/PUBLICO-19940801-047.xml
+output-to-geoscope/PUBLICO-19940403-049.xml
+output-to-geoscope/PUBLICO-19940401-084.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950102-047.xml
+output-to-geoscope/PUBLICO-19940401-099.xml
+output-to-geoscope/PUBLICO-19950108-043.xml
+output-to-geoscope/PUBLICO-19950105-085.xml
+output-to-geoscope/PUBLICO-19950104-053.xml
+output-to-geoscope/PUBLICO-19940402-039.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950105-091.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950107-123.xml
+output-to-geoscope/PUBLICO-19950105-082.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19940402-047.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950105-089.xml
+output-to-geoscope/PUBLICO-19950107-119.xml
+output-to-geoscope/PUBLICO-19940401-004.xml
+output-to-geoscope/PUBLICO-19950108-038.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950105-090.xml
+output-to-geoscope/PUBLICO-19950106-078.xml
+output-to-geoscope/PUBLICO-19940401-089.xml
+output-to-geoscope/PUBLICO-19950106-079.xml
+output-to-geoscope/PUBLICO-19950108-051.xml
+output-to-geoscope/PUBLICO-19940404-053.xml
+output-to-geoscope/PUBLICO-19950107-120.xml
+output-to-geoscope/PUBLICO-19940402-041.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19940801-051.xml
+output-to-geoscope/PUBLICO-19950106-066.xml
+output-to-geoscope/PUBLICO-19950104-058.xml
+output-to-geoscope/PUBLICO-19950108-055.xml
+output-to-geoscope/PUBLICO-19940403-053.xml
+output-to-geoscope/PUBLICO-19950107-112.xml
+output-to-geoscope/PUBLICO-19950105-075.xml
+output-to-geoscope/PUBLICO-19940403-061.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19940401-009.xml
+output-to-geoscope/PUBLICO-19940401-103.xml
+output-to-geoscope/PUBLICO-19950104-062.xml
+output-to-geoscope/PUBLICO-19950102-053.xml
+output-to-geoscope/PUBLICO-19950102-050.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19950108-049.xml
+output-to-geoscope/PUBLICO-19950104-061.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19940402-037.xml
+output-to-geoscope/PUBLICO-19950108-052.xml
+<LOCAL_GeoNetPT02> not found in subtitle
+output-to-geoscope/PUBLICO-19940404-052.xml
+output-to-geoscope/PUBLICO-19950106-080.xml
+
+Calculating Document Ranks 
+
+Documents Ranks:
+
+output-to-geoscope/PUBLICO-19950107-112.xml
+	 identifiers:  set([51537, 3946, 52, 109])
+		51537 Fão LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		3946 Braga DST
+			 descendents:  set([52, 109])
+			 adjacents:  set([])
+		52 Barcelos CON
+			 descendents:  set([])
+			 adjacents:  set([109])
+		109 Esposende CON
+			 descendents:  set([51537])
+			 adjacents:  set([52])
+	 title:  Esposende LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  4 
+	 geo-scope(rank#1):  Braga DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19940402-037.xml
+	 identifiers:  set([418731, 325, 247879])
+		418731 Ribatejo PRO
+			 descendents:  set([325])
+			 adjacents:  set([])
+		325 Vila Franca de Xira CON
+			 descendents:  set([247879])
+			 adjacents:  set([])
+		247879 Loja Nova LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Vila Franca de Xira CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Ribatejo PRO
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950106-078.xml
+	 identifiers:  set([418745, 1714, 284, 3965, 117663])
+		418745 Portugal PAI
+			 descendents:  set([])
+			 adjacents:  set([])
+		1714 Lapa FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		284 Sintra CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3965 Lisboa DST
+			 descendents:  set([284])
+			 adjacents:  set([])
+		117663 São Pedro LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Sintra CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Lisboa DST
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19940401-004.xml
+	 identifiers:  set([132480, 321, 418729, 139, 304, 17, 131028, 3965])
+		132480 Sagres LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		321 Vila do Bispo CON
+			 descendents:  set([132480])
+			 adjacents:  set([139])
+		418729 Algarve PRO
+			 descendents:  set([17])
+			 adjacents:  set([])
+		139 Lagos CON
+			 descendents:  set([])
+			 adjacents:  set([321])
+		304 Trancoso CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		17 Algarve NT3
+			 descendents:  set([321, 139])
+			 adjacents:  set([])
+		131028 Balieira LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		3965 Lisboa DST
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Sagres LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  8 
+	 geo-scope(rank#1):  Algarve NT3
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19940402-041.xml
+	 identifiers:  set([3950, 62])
+		62 Borba CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3950 Évora DST
+			 descendents:  set([62])
+			 adjacents:  set([])
+	 title:  Borba LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Évora DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19940404-052.xml
+	 identifiers:  set([98, 3963])
+		98 Covilhã CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3963 Guarda DST
+			 descendents:  set([])
+			 adjacents:  set([98])
+	 title:  Covilhã LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19940401-099.xml
+	 identifiers:  set([243708, 217271, 243140, 285, 303])
+		243140 Dois Portos LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		217271 Sobral LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		243708 Patameira de Baixo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		285 Sobral de Monte Agraço CON
+			 descendents:  set([])
+			 adjacents:  set([303])
+		303 Torres Vedras CON
+			 descendents:  set([243708, 243140])
+			 adjacents:  set([285])
+	 title:  Torres Vedras LOC 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Torres Vedras CON
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950107-120.xml
+	 identifiers:  set([358521, 210])
+		358521 Pinhal Novo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		210 Palmela CON
+			 descendents:  set([358521])
+			 adjacents:  set([])
+	 title:  Palmela CON:ADM 
+	 subtitle:  Pinhal Novo LOC:ADM 
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Palmela CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19950108-043.xml
+	 identifiers:  set([3945, 131, 418745])
+		3945 Beja DST
+			 descendents:  set([])
+			 adjacents:  set([131])
+		131 Grândola CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		418745 Portugal PAI
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Beja LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950102-047.xml
+	 identifiers:  set([327, 343366, 6, 215431, 107, 302, 175])
+		327 Vila Nova da Barquinha CON
+			 descendents:  set([343366])
+			 adjacents:  set([107, 302])
+		6 Alcanena CON
+			 descendents:  set([])
+			 adjacents:  set([107, 302])
+		343366 Tancos LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		215431 Atalaia LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		107 Entroncamento CON
+			 descendents:  set([])
+			 adjacents:  set([302, 327])
+		302 Torres Novas CON
+			 descendents:  set([])
+			 adjacents:  set([107, 6, 327])
+		175 Moita CON
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Vila Nova da Barquinha LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  7 
+	 geo-scope(rank#1):  Vila Nova da Barquinha CON
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950105-088.xml
+	 identifiers:  set([371904, 3969, 88, 408158, 371815])
+		371904 22 de Dezembro AVE
+			 descendents:  set([])
+			 adjacents:  set([])
+		3969 Setúbal DST
+			 descendents:  set([])
+			 adjacents:  set([])
+		408158 5 de Outubro RUA
+			 descendents:  set([])
+			 adjacents:  set([])
+		88 Chamusca CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		371815 Jaime Cortesão AVE
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Setúbal LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950105-082.xml
+	 identifiers:  set([1720, 3965])
+		1720 Penha de França FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		3965 Lisboa DST
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Penha de França FRG:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950103-057.xml
+	 identifiers:  set([3970, 53767, 233, 3946, 331, 2605, 418714, 397439])
+		3970 Viana do Castelo DST
+			 descendents:  set([233])
+			 adjacents:  set([3946])
+		53767 Arca LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		233 Ponte de Lima CON
+			 descendents:  set([2605])
+			 adjacents:  set([])
+		3946 Braga DST
+			 descendents:  set([])
+			 adjacents:  set([233, 3970])
+		331 Vila Nova de Gaia CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		2605 Feitosa FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		418714 Nogueira FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		397439 Fornelos LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Ponte de Lima LOC:ADM 
+	 subtitle:  Arca FRG:ADM 
+	 nº unique identifers:  8 
+	 geo-scope(rank#1):  Viana do Castelo DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19950107-107.xml
+	 identifiers:  set([200, 418745, 284, 242038, 303])
+		200 Oeste NT3
+			 descendents:  set([303])
+			 adjacents:  set([])
+		418745 Portugal PAI
+			 descendents:  set([])
+			 adjacents:  set([])
+		284 Sintra CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		242038 Campelos LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		303 Torres Vedras CON
+			 descendents:  set([242038])
+			 adjacents:  set([])
+	 title:  Torres Vedras CON:ADM 
+	 subtitle:  Campelos LOC:ADM 
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Oeste NT3
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19940403-053.xml
+	 identifiers:  set([299, 340742])
+		299 Tomar CON
+			 descendents:  set([340742])
+			 adjacents:  set([])
+		340742 Paialvo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Paialvo FRG:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Tomar CON
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19940801-051.xml
+	 identifiers:  set([3969, 3964, 3949])
+		3969 Setúbal DST
+			 descendents:  set([])
+			 adjacents:  set([])
+		3964 Leiria DST
+			 descendents:  set([])
+			 adjacents:  set([3949])
+		3949 Coimbra DST
+			 descendents:  set([])
+			 adjacents:  set([3964])
+	 title:  Leiria LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950104-062.xml
+	 identifiers:  set([418728, 418738])
+		418728 Beira Interior REG
+			 descendents:  set([418738])
+			 adjacents:  set([])
+		418738 Beira Baixa PRO
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Beira Baixa PRO:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Beira Interior REG
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950106-079.xml
+	 identifiers:  set([300057, 116])
+		300057 Areias LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		116 Ferreira do Zêzere CON
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Ferreira do Zêzere LOC:ADM 
+	 subtitle:  Areias LOC:ADM 
+	 nº unique identifers:  2 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950106-080.xml
+	 identifiers:  set([248819, 325, 247630])
+		248819 Verdelha de Baixo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		325 Vila Franca de Xira CON
+			 descendents:  set([248819, 247630])
+			 adjacents:  set([])
+		247630 Forte da Casa LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Vila Franca de Xira CON:ADM 
+	 subtitle:  Verdelha de Baixo LOC:ADM 
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Vila Franca de Xira CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19950105-085.xml
+	 identifiers:  set([3970, 220971, 3418, 3415])
+		3418 Carreço FRG
+			 descendents:  set([])
+			 adjacents:  set([3415])
+		220971 Ribeira LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		3970 Viana do Castelo DST
+			 descendents:  set([])
+			 adjacents:  set([])
+		3415 Areosa FRG
+			 descendents:  set([])
+			 adjacents:  set([3418])
+	 title:  Viana do Castelo LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  4 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950105-075.xml
+	 identifiers:  set([418745, 61, 163901, 164301])
+		418745 Portugal PAI
+			 descendents:  set([])
+			 adjacents:  set([])
+		164301 Cintrão LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		61 Bombarral CON
+			 descendents:  set([163901, 164301])
+			 adjacents:  set([])
+		163901 Bombarral LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Bombarral LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  4 
+	 geo-scope(rank#1):  Bombarral CON
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950108-049.xml
+	 identifiers:  set([188, 10085, 3965, 45, 16679])
+		10085 São Jacinto LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		3965 Lisboa DST
+			 descendents:  set([])
+			 adjacents:  set([])
+		188 Murtosa CON
+			 descendents:  set([16679])
+			 adjacents:  set([45])
+		45 Aveiro CON
+			 descendents:  set([10085])
+			 adjacents:  set([188])
+		16679 Torreira LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Aveiro CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Murtosa CON
+	 distance : -1
+
+
+
+output-to-geoscope/PUBLICO-19950102-050.xml
+	 identifiers:  set([39680, 39114, 276, 39613])
+		39680 Vila Nova de São Bento LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		39114 Pias LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		276 Serpa CON
+			 descendents:  set([39680, 39114, 39613])
+			 adjacents:  set([])
+		39613 Vale de Vargo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Serpa CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  4 
+	 geo-scope(rank#1):  Serpa CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19950105-089.xml
+	 identifiers:  set([3969, 210, 359159, 182, 358521])
+		3969 Setúbal DST
+			 descendents:  set([210, 182])
+			 adjacents:  set([])
+		210 Palmela CON
+			 descendents:  set([358521, 359159])
+			 adjacents:  set([182])
+		359159 Venda do Alcaide LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		182 Montijo CON
+			 descendents:  set([])
+			 adjacents:  set([210])
+		358521 Pinhal Novo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Palmela LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Setúbal DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19950102-053.xml
+	 identifiers:  set([320, 3949])
+		320 Vila de Rei CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3949 Coimbra DST
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Vila de Rei CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950105-103.xml
+	 identifiers:  set([290, 3944, 3946, 205, 45, 308, 7806])
+		290 São João da Madeira CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3944 Aveiro DST
+			 descendents:  set([290, 308, 45, 205])
+			 adjacents:  set([])
+		3946 Braga DST
+			 descendents:  set([])
+			 adjacents:  set([])
+		205 Oliveira do Bairro CON
+			 descendents:  set([])
+			 adjacents:  set([308, 45])
+		45 Aveiro CON
+			 descendents:  set([])
+			 adjacents:  set([308, 205])
+		308 Vagos CON
+			 descendents:  set([])
+			 adjacents:  set([205, 45])
+		7806 Albergaria-a-Velha RUA
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Braga CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  7 
+	 geo-scope(rank#1):  Aveiro DST
+	 distance : -1
+
+
+
+output-to-geoscope/PUBLICO-19950107-124.xml
+	 identifiers:  set([342212, 302])
+		342212 Riachos LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		302 Torres Novas CON
+			 descendents:  set([342212])
+			 adjacents:  set([])
+	 title:  Torres Novas CON:ADM 
+	 subtitle:  Riachos LOC:ADM 
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Torres Novas CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19950107-119.xml
+	 identifiers:  set([182, 357311])
+		182 Montijo CON
+			 descendents:  set([357311])
+			 adjacents:  set([])
+		357311 Pegões LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Montijo CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Montijo CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19950104-056.xml
+	 identifiers:  set([418728, 34, 3948, 3949])
+		418728 Beira Interior REG
+			 descendents:  set([])
+			 adjacents:  set([])
+		34 Anadia CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3948 Castelo Branco DST
+			 descendents:  set([])
+			 adjacents:  set([3949])
+		3949 Coimbra DST
+			 descendents:  set([])
+			 adjacents:  set([34, 3948])
+	 title:  Castelo Branco DST:ADM 
+	 subtitle:  
+	 nº unique identifers:  4 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19940801-047.xml
+	 identifiers:  set([192072, 193412, 77])
+		192072 Estoril LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		193412 Monte Estoril LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		77 Cascais CON
+			 descendents:  set([192072, 193412])
+			 adjacents:  set([])
+	 title:  Tamariz  OUT 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Cascais CON
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19950108-052.xml
+	 identifiers:  set([2537, 3964, 229])
+		2537 Pelariga FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		3964 Leiria DST
+			 descendents:  set([229])
+			 adjacents:  set([])
+		229 Pombal CON
+			 descendents:  set([2537])
+			 adjacents:  set([])
+	 title:  Pombal CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Leiria DST
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19940401-009.xml
+	 identifiers:  set([3946, 3970, 3966])
+		3946 Braga DST
+			 descendents:  set([])
+			 adjacents:  set([3970])
+		3970 Viana do Castelo DST
+			 descendents:  set([])
+			 adjacents:  set([3946])
+		3966 Portalegre DST
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Braga LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950105-091.xml
+	 identifiers:  set([52, 109])
+		52 Barcelos CON
+			 descendents:  set([])
+			 adjacents:  set([109])
+		109 Esposende CON
+			 descendents:  set([])
+			 adjacents:  set([52])
+	 title:  Esposende LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19940401-084.xml
+	 identifiers:  set([3945, 20])
+		3945 Beja DST
+			 descendents:  set([20])
+			 adjacents:  set([])
+		20 Aljustrel CON
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Beja CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Beja DST
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950106-066.xml
+	 identifiers:  set([98, 82891, 83098])
+		98 Covilhã CON
+			 descendents:  set([83098, 82891])
+			 adjacents:  set([])
+		82891 Teixoso LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		83098 Tortosendo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Covilhã CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Covilhã CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19950107-114.xml
+	 identifiers:  set([147, 237, 3951])
+		147 Loulé CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		237 Portimão CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3951 Faro DST
+			 descendents:  set([147, 237])
+			 adjacents:  set([])
+	 title:  Faro LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Faro DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19940401-089.xml
+	 identifiers:  set([350784, 54, 353667, 350797, 333515])
+		350784 Barreiro LOC
+			 descendents:  set([350797])
+			 adjacents:  set([])
+		353667 Alhos Vedros LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		333515 Lavradio LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		350797 Verderena ZON
+			 descendents:  set([])
+			 adjacents:  set([])
+		54 Barreiro CON
+			 descendents:  set([350784])
+			 adjacents:  set([])
+	 title:  
+	 subtitle:  Barreiro LOC:ADM 
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Barreiro LOC
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19940401-103.xml
+	 identifiers:  set([3969, 299, 182])
+		3969 Setúbal DST
+			 descendents:  set([182])
+			 adjacents:  set([])
+		299 Tomar CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		182 Montijo CON
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Montijo CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Setúbal DST
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950105-090.xml
+	 identifiers:  set([68, 3942, 3210, 300, 344, 3972, 348, 339743])
+		3972 Viseu DST
+			 descendents:  set([344, 300])
+			 adjacents:  set([])
+		3942 Santa Maria FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		3210 Canas de Santa Maria FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		300 Tondela CON
+			 descendents:  set([3210])
+			 adjacents:  set([344])
+		344 Vouzela CON
+			 descendents:  set([])
+			 adjacents:  set([300])
+		68 Caldas da Rainha CON
+			 descendents:  set([])
+			 adjacents:  set([348, 3942])
+		348 Óbidos CON
+			 descendents:  set([3942])
+			 adjacents:  set([68])
+		339743 Valverde LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Tondela LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  8 
+	 geo-scope(rank#1):  Viseu DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19950104-053.xml
+	 identifiers:  set([248827, 247958, 247630])
+		248827 Vialonga LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		247630 Forte da Casa LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		247958 Póvoa de Santa Iria LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  
+	 subtitle:  Forte da Casa LOC:ADM 
+	 nº unique identifers:  3 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19950104-058.xml
+	 identifiers:  set([3972, 300])
+		300 Tondela CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3972 Viseu DST
+			 descendents:  set([300])
+			 adjacents:  set([])
+	 title:  Tondela CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Viseu DST
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19940402-047.xml
+	 identifiers:  set([3969, 229, 364073, 210, 2355, 3964])
+		3969 Setúbal DST
+			 descendents:  set([210])
+			 adjacents:  set([])
+		229 Pombal CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		364073 Fogueteiro LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		210 Palmela CON
+			 descendents:  set([2355])
+			 adjacents:  set([])
+		2355 Marateca FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+		3964 Leiria DST
+			 descendents:  set([229])
+			 adjacents:  set([])
+	 title:  Marateca FRG:ADM 
+	 subtitle:  
+	 nº unique identifers:  6 
+	 geo-scope(rank#1):  Setúbal DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19940403-061.xml
+	 identifiers:  set([3945, 797])
+		3945 Beja DST
+			 descendents:  set([])
+			 adjacents:  set([])
+		797 Albernoa FRG
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Beja LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19940403-049.xml
+	 identifiers:  set([325, 246062])
+		325 Vila Franca de Xira CON
+			 descendents:  set([246062])
+			 adjacents:  set([])
+		246062 Alhandra LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Alhandra LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Vila Franca de Xira CON
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950108-051.xml
+	 identifiers:  set([358521, 210])
+		358521 Pinhal Novo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		210 Palmela CON
+			 descendents:  set([358521])
+			 adjacents:  set([])
+	 title:  Palmela LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Palmela CON
+	 distance : 1
+
+
+
+output-to-geoscope/PUBLICO-19950108-055.xml
+	 identifiers:  set([248819, 325, 247630])
+		248819 Verdelha de Baixo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		325 Vila Franca de Xira CON
+			 descendents:  set([248819, 247630])
+			 adjacents:  set([])
+		247630 Forte da Casa LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Vila Franca de Xira CON:ADM 
+	 subtitle:  Verdelha de Baixo LOC:ADM 
+	 nº unique identifers:  3 
+	 geo-scope(rank#1):  Vila Franca de Xira CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19950104-061.xml
+	 identifiers:  set([3969, 210, 357631, 358521, 175])
+		3969 Setúbal DST
+			 descendents:  set([210, 175])
+			 adjacents:  set([])
+		210 Palmela CON
+			 descendents:  set([358521, 357631])
+			 adjacents:  set([175])
+		357631 Águas de Moura LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		358521 Pinhal Novo LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+		175 Moita CON
+			 descendents:  set([])
+			 adjacents:  set([210])
+	 title:  Setúbal LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Setúbal DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19950107-123.xml
+	 identifiers:  set([284, 239197])
+		284 Sintra CON
+			 descendents:  set([239197])
+			 adjacents:  set([])
+		239197 Rio de Mouro LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Sintra CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1):  Sintra CON
+	 distance : 0
+
+
+
+output-to-geoscope/PUBLICO-19940402-039.xml
+	 identifiers:  set([418738, 83606])
+		418738 Beira Baixa PRO
+			 descendents:  set([])
+			 adjacents:  set([])
+		83606 Alpedrinha LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Alpedrinha LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  2 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+
+output-to-geoscope/PUBLICO-19940404-053.xml
+	 identifiers:  set([3964, 392564, 68, 3965, 175583])
+		68 Caldas da Rainha CON
+			 descendents:  set([])
+			 adjacents:  set([])
+		392564 Caldas ZON
+			 descendents:  set([])
+			 adjacents:  set([])
+		3964 Leiria DST
+			 descendents:  set([68])
+			 adjacents:  set([3965])
+		3965 Lisboa DST
+			 descendents:  set([])
+			 adjacents:  set([68, 3964])
+		175583 Gaeiras LOC
+			 descendents:  set([])
+			 adjacents:  set([])
+	 title:  Caldas da Rainha LOC:ADM 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1):  Leiria DST
+	 distance : 2
+
+
+
+output-to-geoscope/PUBLICO-19950108-038.xml
+	 identifiers:  set([418745, 347, 308, 45, 205])
+		418745 Portugal PAI
+			 descendents:  set([])
+			 adjacents:  set([])
+		347 Ílhavo CON
+			 descendents:  set([])
+			 adjacents:  set([308, 45])
+		308 Vagos CON
+			 descendents:  set([])
+			 adjacents:  set([347, 205, 45])
+		45 Aveiro CON
+			 descendents:  set([])
+			 adjacents:  set([347, 308, 205])
+		205 Oliveira do Bairro CON
+			 descendents:  set([])
+			 adjacents:  set([308, 45])
+	 title:  Vagos CON:ADM 
+	 subtitle:  
+	 nº unique identifers:  5 
+	 geo-scope(rank#1): -
+	 distance : - 
+
+
+Total number of documents:  51

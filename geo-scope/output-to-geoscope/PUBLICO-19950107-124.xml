@@ -1,0 +1,16 @@
+annotations found: 
+Riachos LOC:ADM 342212
+Torres Novas CON:ADM 302
+Riachos LOC:ADM 342212
+Riachos LOC:ADM 342212
+
+number of branches found:  1
+
+precision for each branch: 
+(Riachos LOC:ADM 342212,Riachos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#342212) = 1.0
+(Torres Novas CON:ADM 302,Torres Novas CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#302) = 1.0
+(Riachos LOC:ADM 342212,Riachos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#342212) = 1.0
+(Riachos LOC:ADM 342212,Riachos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#342212) = 1.0
+overall branch precision:  1.0
+
+

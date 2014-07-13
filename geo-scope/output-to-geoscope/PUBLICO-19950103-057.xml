@@ -1,0 +1,25 @@
+annotations found: 
+Ponte de Lima LOC:ADM 383609
+Arca FRG:ADM 2591
+Fornelos FRG:ADM 418634
+Feitosa FRG:ADM 2605
+Arca FRG:ADM 2591
+Ponte de Lima LOC:ADM 383609
+Vila Nova de Gaia LOC:ADM 317592
+Nogueira FRG:ADM 418714
+Viana do Castelo CON:ADM 316
+Braga LOC:ADM 44738
+Ponte de Lima LOC:ADM 383609
+
+(Ponte de Lima LOC:ADM 383609,Ponte de Lima CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#233) = 0.911
+(Arca FRG:ADM 2591,Arca LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#53767) = 0.849
+(Fornelos FRG:ADM 418634,Fornelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#397439) = 0.847
+(Feitosa FRG:ADM 2605,Feitosa FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#2605) = 1.0
+(Arca FRG:ADM 2591,Arca LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#53767) = 0.849
+(Ponte de Lima LOC:ADM 383609,Ponte de Lima CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#233) = 0.911
+(Vila Nova de Gaia LOC:ADM 317592,Vila Nova de Gaia CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#331) = 0.937
+(Nogueira FRG:ADM 418714,Nogueira FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418714) = 1.0
+(Viana do Castelo CON:ADM 316,Viana do Castelo DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3970) = 0.949
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Ponte de Lima LOC:ADM 383609,Ponte de Lima CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#233) = 0.911
+overall branch precision:  0.919272727273

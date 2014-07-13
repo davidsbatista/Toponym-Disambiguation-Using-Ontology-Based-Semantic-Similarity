@@ -1,0 +1,18 @@
+annotations found: 
+Castelo Branco DST:ADM 3948
+Beira Interior REG:ADM 418728
+Coimbra LOC:ADM 92458
+Coimbra LOC:ADM 92458
+Anadia CON:ADM 34
+
+number of branches found:  1
+
+precision for each branch: 
+(Castelo Branco DST:ADM 3948,Castelo Branco DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3948) = 1.0
+(Beira Interior REG:ADM 418728,Beira Interior REG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418728) = 1.0
+(Coimbra LOC:ADM 92458,Coimbra DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3949) = 0.955
+(Coimbra LOC:ADM 92458,Coimbra DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3949) = 0.955
+(Anadia CON:ADM 34,Anadia CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#34) = 1.0
+overall branch precision:  0.982
+
+

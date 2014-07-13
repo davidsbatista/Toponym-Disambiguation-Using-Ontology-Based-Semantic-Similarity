@@ -1,0 +1,13 @@
+annotations found: 
+Areosa FRG:ADM 3415
+Ribeira LOC:ADM 387051
+Viana do Castelo LOC:ADM 387660
+Carreço FRG:ADM 3418
+Viana do Castelo CON:ADM 316
+
+(Areosa FRG:ADM 3415,Areosa FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3415) = 1.0
+(Ribeira LOC:ADM 387051,Ribeira LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#220971) = 0.854
+(Viana do Castelo LOC:ADM 387660,Viana do Castelo DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3970) = 0.942
+(Carreço FRG:ADM 3418,Carreço FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3418) = 1.0
+(Viana do Castelo CON:ADM 316,Viana do Castelo DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3970) = 0.949
+overall branch precision:  0.949

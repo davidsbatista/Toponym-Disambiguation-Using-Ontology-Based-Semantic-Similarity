@@ -1,0 +1,16 @@
+annotations found: 
+Beja LOC:ADM 32033
+Beja CON:ADM 58
+Aljustrel CON:ADM 20
+Beja LOC:ADM 32033
+
+number of branches found:  1
+
+precision for each branch: 
+(Beja LOC:ADM 32033,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.947
+(Beja CON:ADM 58,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.949
+(Aljustrel CON:ADM 20,Aljustrel CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#20) = 1.0
+(Beja LOC:ADM 32033,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.947
+overall branch precision:  0.96075
+
+

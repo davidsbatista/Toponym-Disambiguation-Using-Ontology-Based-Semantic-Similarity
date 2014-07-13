@@ -1,0 +1,32 @@
+annotations found: 
+Vila Nova da Barquinha LOC:ADM 343425
+Entroncamento LOC:ADM 330130
+Torres Novas LOC:ADM 342354
+Alcanena LOC:ADM 324090
+Vila Nova da Barquinha LOC:ADM 343425
+Moita LOC:ADM 354749
+Atalaia LOC:ADM 342891
+Tancos LOC:ADM 343366
+Atalaia LOC:ADM 342891
+Moita LOC:ADM 354749
+Vila Nova da Barquinha LOC:ADM 343425
+Tancos LOC:ADM 343366
+
+number of branches found:  1
+
+precision for each branch: 
+(Vila Nova da Barquinha LOC:ADM 343425,Vila Nova da Barquinha CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#327) = 0.914
+(Entroncamento LOC:ADM 330130,Entroncamento CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#107) = 0.91
+(Torres Novas LOC:ADM 342354,Torres Novas CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#302) = 0.918
+(Alcanena LOC:ADM 324090,Alcanena CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#6) = 0.913
+(Vila Nova da Barquinha LOC:ADM 343425,Vila Nova da Barquinha CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#327) = 0.914
+(Moita LOC:ADM 354749,Moita CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#175) = 0.917
+(Atalaia LOC:ADM 342891,Atalaia LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#215431) = 0.898
+(Tancos LOC:ADM 343366,Tancos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#343366) = 1.0
+(Atalaia LOC:ADM 342891,Atalaia LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#215431) = 0.898
+(Moita LOC:ADM 354749,Moita CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#175) = 0.917
+(Vila Nova da Barquinha LOC:ADM 343425,Vila Nova da Barquinha CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#327) = 0.914
+(Tancos LOC:ADM 343366,Tancos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#343366) = 1.0
+overall branch precision:  0.926083333333
+
+

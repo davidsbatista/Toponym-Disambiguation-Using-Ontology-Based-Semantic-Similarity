@@ -1,0 +1,26 @@
+annotations found: 
+Braga LOC:ADM 44738
+Braga LOC:ADM 44738
+Braga LOC:ADM 44738
+Braga LOC:ADM 44738
+Viana do Castelo LOC:ADM 387660
+Portalegre LOC:ADM 255023
+Braga LOC:ADM 44738
+Braga LOC:ADM 44738
+Braga LOC:ADM 44738
+
+number of branches found:  1
+
+precision for each branch: 
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Viana do Castelo LOC:ADM 387660,Viana do Castelo DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3970) = 0.942
+(Portalegre LOC:ADM 255023,Portalegre DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3966) = 0.934
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+overall branch precision:  0.945777777778
+
+

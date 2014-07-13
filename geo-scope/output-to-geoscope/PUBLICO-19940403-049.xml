@@ -1,0 +1,14 @@
+annotations found: 
+Alhandra LOC:ADM 246062
+Vila Franca de Xira CON:ADM 325
+Vila Franca de Xira CON:ADM 325
+
+number of branches found:  1
+
+precision for each branch: 
+(Alhandra LOC:ADM 246062,Alhandra LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#246062) = 1.0
+(Vila Franca de Xira CON:ADM 325,Vila Franca de Xira CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#325) = 1.0
+(Vila Franca de Xira CON:ADM 325,Vila Franca de Xira CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#325) = 1.0
+overall branch precision:  1.0
+
+

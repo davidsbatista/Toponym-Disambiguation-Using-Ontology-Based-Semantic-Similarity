@@ -1,0 +1,16 @@
+annotations found: 
+Pinhal Novo LOC:ADM 358521
+Palmela CON:ADM 210
+Palmela CON:ADM 210
+Pinhal Novo LOC:ADM 358521
+
+number of branches found:  1
+
+precision for each branch: 
+(Pinhal Novo LOC:ADM 358521,Pinhal Novo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#358521) = 1.0
+(Palmela CON:ADM 210,Palmela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#210) = 1.0
+(Palmela CON:ADM 210,Palmela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#210) = 1.0
+(Pinhal Novo LOC:ADM 358521,Pinhal Novo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#358521) = 1.0
+overall branch precision:  1.0
+
+

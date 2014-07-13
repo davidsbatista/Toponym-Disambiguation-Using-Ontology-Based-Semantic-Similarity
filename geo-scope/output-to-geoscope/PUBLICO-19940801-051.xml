@@ -1,0 +1,16 @@
+annotations found: 
+Leiria LOC:ADM 169227
+Coimbra LOC:ADM 92458
+Leiria LOC:ADM 275093
+Setúbal LOC:ADM 371672
+Leiria DST:ADM 3964
+
+number of branches found:  1
+
+precision for each branch: 
+(Leiria LOC:ADM 169227,Leiria DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3964) = 0.951
+(Coimbra LOC:ADM 92458,Coimbra DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3949) = 0.955
+(Leiria LOC:ADM 275093,Leiria DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3964) = 0.916
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Leiria DST:ADM 3964,Leiria DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3964) = 1.0
+overall branch precision:  0.953

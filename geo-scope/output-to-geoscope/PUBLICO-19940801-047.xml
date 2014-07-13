@@ -1,0 +1,28 @@
+annotations found: 
+Estoril LOC:ADM 192072
+Estoril LOC:ADM 192072
+Monte Estoril LOC:ADM 193412
+Estoril LOC:ADM 192072
+Monte Estoril LOC:ADM 193412
+Estoril LOC:ADM 192072
+Monte Estoril LOC:ADM 193412
+Cascais LOC:ADM 190749
+Estoril LOC:ADM 192072
+Cascais LOC:ADM 190749
+Cascais LOC:ADM 190749
+
+number of branches found:  1
+
+precision for each branch: 
+(Estoril LOC:ADM 192072,Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#192072) = 1.0
+(Estoril LOC:ADM 192072,Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#192072) = 1.0
+(Monte Estoril LOC:ADM 193412,Monte Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#193412) = 1.0
+(Estoril LOC:ADM 192072,Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#192072) = 1.0
+(Monte Estoril LOC:ADM 193412,Monte Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#193412) = 1.0
+(Estoril LOC:ADM 192072,Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#192072) = 1.0
+(Monte Estoril LOC:ADM 193412,Monte Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#193412) = 1.0
+(Cascais LOC:ADM 190749,Cascais CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#77) = 0.931
+(Estoril LOC:ADM 192072,Estoril LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#192072) = 1.0
+(Cascais LOC:ADM 190749,Cascais CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#77) = 0.931
+(Cascais LOC:ADM 190749,Cascais CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#77) = 0.931
+overall branch precision:  0.981181818182

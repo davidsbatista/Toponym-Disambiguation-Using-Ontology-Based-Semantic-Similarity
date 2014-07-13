@@ -1,0 +1,20 @@
+annotations found: 
+Barcelos LOC:ADM 41477
+Esposende LOC:ADM 51007
+Braga LOC:ADM 44738
+Esposende CON:ADM 109
+Fão LOC:ADM 51537
+Esposende LOC:ADM 51007
+
+number of branches found:  1
+
+precision for each branch: 
+(Barcelos LOC:ADM 41477,Barcelos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#52) = 0.925
+(Esposende LOC:ADM 51007,Esposende CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#109) = 0.924
+(Braga LOC:ADM 44738,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.948
+(Esposende CON:ADM 109,Esposende CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#109) = 1.0
+(Fão LOC:ADM 51537,Fão LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#51537) = 1.0
+(Esposende LOC:ADM 51007,Esposende CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#109) = 0.924
+overall branch precision:  0.9535
+
+

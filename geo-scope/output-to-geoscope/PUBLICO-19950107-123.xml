@@ -1,0 +1,16 @@
+annotations found: 
+Sintra CON:ADM 284
+Rio de Mouro LOC:ADM 239197
+Sintra CON:ADM 284
+Sintra CON:ADM 284
+
+number of branches found:  1
+
+precision for each branch: 
+(Sintra CON:ADM 284,Sintra CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#284) = 1.0
+(Rio de Mouro LOC:ADM 239197,Rio de Mouro LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#239197) = 1.0
+(Sintra CON:ADM 284,Sintra CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#284) = 1.0
+(Sintra CON:ADM 284,Sintra CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#284) = 1.0
+overall branch precision:  1.0
+
+

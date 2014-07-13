@@ -1,0 +1,22 @@
+annotations found: 
+Palmela LOC:ADM 358208
+Marateca FRG:ADM 2355
+Fogueteiro LOC:ADM 364073
+Setúbal LOC:ADM 371672
+Marateca FRG:ADM 2355
+Marateca FRG:ADM 2355
+Leiria LOC:ADM 169227
+Pombal LOC:ADM 179319
+
+number of branches found:  16
+
+precision for each branch: 
+(Palmela LOC:ADM 358208,Palmela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#210) = 0.916
+(Marateca FRG:ADM 2355,Marateca FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#2355) = 1.0
+(Fogueteiro LOC:ADM 364073,Fogueteiro LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#364073) = 1.0
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Marateca FRG:ADM 2355,Marateca FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#2355) = 1.0
+(Marateca FRG:ADM 2355,Marateca FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#2355) = 1.0
+(Leiria LOC:ADM 169227,Leiria DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3964) = 0.951
+(Pombal LOC:ADM 179319,Pombal CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#229) = 0.922
+overall branch precision:  0.9665

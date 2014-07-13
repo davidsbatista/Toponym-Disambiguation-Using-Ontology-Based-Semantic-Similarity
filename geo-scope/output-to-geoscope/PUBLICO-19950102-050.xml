@@ -1,0 +1,18 @@
+annotations found: 
+Pias FRG:ADM 3010
+Vila Nova de São Bento LOC:ADM 39680
+Vale de Vargo FRG:ADM 3013
+Serpa CON:ADM 276
+Serpa CON:ADM 276
+
+number of branches found:  1
+
+precision for each branch: 
+(Pias FRG:ADM 3010,Pias LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#39114) = 0.865
+(Vila Nova de São Bento LOC:ADM 39680,Vila Nova de São Bento LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#39680) = 1.0
+(Vale de Vargo FRG:ADM 3013,Vale de Vargo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#39613) = 0.846
+(Serpa CON:ADM 276,Serpa CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#276) = 1.0
+(Serpa CON:ADM 276,Serpa CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#276) = 1.0
+overall branch precision:  0.9422
+
+

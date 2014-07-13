@@ -1,0 +1,14 @@
+annotations found: 
+Albernoa FRG:ADM 797
+Beja CON:ADM 58
+Beja LOC:ADM 32033
+Beja CON:ADM 58
+
+number of branches found:  2
+
+precision for each branch: 
+(Albernoa FRG:ADM 797,Albernoa FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#797) = 1.0
+(Beja CON:ADM 58,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.949
+(Beja LOC:ADM 32033,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.947
+(Beja CON:ADM 58,Beja DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3945) = 0.949
+overall branch precision:  0.96125

@@ -1,0 +1,10 @@
+annotations found: 
+Areias LOC:ADM 330687
+Ferreira do Zêzere LOC:ADM 330893
+
+number of branches found:  1
+
+precision for each branch: 
+(Areias LOC:ADM 330687,Areias LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300057) = 0.864
+(Ferreira do Zêzere LOC:ADM 330893,Ferreira do Zêzere CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#116) = 0.905
+overall branch precision:  0.8845

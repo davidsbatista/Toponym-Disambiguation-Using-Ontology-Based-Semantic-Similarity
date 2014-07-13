@@ -1,0 +1,18 @@
+annotations found: 
+Covilhã CON:ADM 98
+Tortosendo LOC:ADM 83098
+Teixoso LOC:ADM 82891
+Covilhã LOC:ADM 80886
+Tortosendo LOC:ADM 83098
+
+number of branches found:  1
+
+precision for each branch: 
+(Covilhã CON:ADM 98,Covilhã CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#98) = 1.0
+(Tortosendo LOC:ADM 83098,Tortosendo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#83098) = 1.0
+(Teixoso LOC:ADM 82891,Teixoso LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#82891) = 1.0
+(Covilhã LOC:ADM 80886,Covilhã CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#98) = 0.938
+(Tortosendo LOC:ADM 83098,Tortosendo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#83098) = 1.0
+overall branch precision:  0.9876
+
+

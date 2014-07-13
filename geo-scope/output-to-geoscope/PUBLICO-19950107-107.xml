@@ -1,0 +1,30 @@
+annotations found: 
+Campelos LOC:ADM 242038
+Torres Vedras CON:ADM 303
+Campelos LOC:ADM 242038
+Portugal PAI:ADM 418745
+Sintra LOC:ADM 240249
+Oeste NT3:ADM 200
+Campelos LOC:ADM 242038
+Campelos LOC:ADM 242038
+Campelos LOC:ADM 242038
+Campelos LOC:ADM 242038
+Campelos LOC:ADM 242038
+
+number of branches found:  1
+
+precision for each branch: 
+(Campelos LOC:ADM 242038,Campelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#242038) = 1.0
+(Torres Vedras CON:ADM 303,Torres Vedras CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#303) = 1.0
+(Campelos LOC:ADM 242038,Campelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#242038) = 1.0
+(Portugal PAI:ADM 418745,Portugal PAI http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418745) = 1.0
+(Sintra LOC:ADM 240249,Sintra CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#284) = 0.921
+(Oeste NT3:ADM 200,Oeste NT3 http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#200) = 1.0
+(Campelos LOC:ADM 242038,Campelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#242038) = 1.0
+(Campelos LOC:ADM 242038,Campelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#242038) = 1.0
+(Campelos LOC:ADM 242038,Campelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#242038) = 1.0
+(Campelos LOC:ADM 242038,Campelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#242038) = 1.0
+(Campelos LOC:ADM 242038,Campelos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#242038) = 1.0
+overall branch precision:  0.992818181818
+
+

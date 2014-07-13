@@ -1,0 +1,20 @@
+annotations found: 
+Tondela CON:ADM 300
+Viseu CON:ADM 342
+Tondela CON:ADM 300
+Tondela CON:ADM 300
+Tondela CON:ADM 300
+Tondela CON:ADM 300
+
+number of branches found:  1
+
+precision for each branch: 
+(Tondela CON:ADM 300,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 1.0
+(Viseu CON:ADM 342,Viseu DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3972) = 0.954
+(Tondela CON:ADM 300,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 1.0
+(Tondela CON:ADM 300,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 1.0
+(Tondela CON:ADM 300,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 1.0
+(Tondela CON:ADM 300,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 1.0
+overall branch precision:  0.992333333333
+
+

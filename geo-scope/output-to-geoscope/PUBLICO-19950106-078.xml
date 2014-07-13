@@ -1,0 +1,21 @@
+annotations found: 
+Portugal PAI:ADM 418745
+Sintra LOC:ADM 240249
+Lisboa LOC:ADM 196518
+São Pedro LOC:ADM 239970
+Sintra LOC:ADM 240249
+São Pedro LOC:ADM 239970
+Portugal PAI:ADM 418745
+Lapa FRG:ADM 1714
+Sintra CON:ADM 284
+
+(Portugal PAI:ADM 418745,Portugal PAI http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418745) = 1.0
+(Sintra LOC:ADM 240249,Sintra CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#284) = 0.921
+(Lisboa LOC:ADM 196518,Lisboa DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3965) = 0.957
+(São Pedro LOC:ADM 239970,São Pedro LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#117663) = 0.898
+(Sintra LOC:ADM 240249,Sintra CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#284) = 0.921
+(São Pedro LOC:ADM 239970,São Pedro LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#117663) = 0.898
+(Portugal PAI:ADM 418745,Portugal PAI http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418745) = 1.0
+(Lapa FRG:ADM 1714,Lapa FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#1714) = 1.0
+(Sintra CON:ADM 284,Sintra CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#284) = 1.0
+overall branch precision:  0.955

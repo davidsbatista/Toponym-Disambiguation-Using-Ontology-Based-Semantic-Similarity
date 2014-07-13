@@ -1,0 +1,16 @@
+annotations found: 
+Esposende LOC:ADM 51007
+Barcelos LOC:ADM 41477
+Barcelos LOC:ADM 41477
+Esposende LOC:ADM 51007
+
+number of branches found:  1
+
+precision for each branch: 
+(Esposende LOC:ADM 51007,Esposende CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#109) = 0.924
+(Barcelos LOC:ADM 41477,Barcelos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#52) = 0.925
+(Barcelos LOC:ADM 41477,Barcelos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#52) = 0.925
+(Esposende LOC:ADM 51007,Esposende CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#109) = 0.924
+overall branch precision:  0.9245
+
+

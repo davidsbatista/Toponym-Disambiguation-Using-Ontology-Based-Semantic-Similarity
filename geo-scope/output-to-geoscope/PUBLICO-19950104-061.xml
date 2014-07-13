@@ -1,0 +1,24 @@
+annotations found: 
+Setúbal LOC:ADM 371672
+Setúbal LOC:ADM 371672
+Setúbal LOC:ADM 371672
+Setúbal LOC:ADM 371672
+Moita LOC:ADM 354749
+Palmela LOC:ADM 358208
+Águas de Moura LOC:ADM 357631
+Pinhal Novo LOC:ADM 358521
+Setúbal LOC:ADM 371672
+Setúbal LOC:ADM 371672
+
+precision for each branch: 
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Moita LOC:ADM 354749,Moita CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#175) = 0.917
+(Palmela LOC:ADM 358208,Palmela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#210) = 0.916
+(Águas de Moura LOC:ADM 357631,Águas de Moura LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#357631) = 1.0
+(Pinhal Novo LOC:ADM 358521,Pinhal Novo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#358521) = 1.0
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+(Setúbal LOC:ADM 371672,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 0.943
+overall branch precision:  0.9491

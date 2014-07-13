@@ -1,0 +1,14 @@
+annotations found: 
+Montijo CON:ADM 182
+Pegões LOC:ADM 357311
+Montijo LOC:ADM 356404
+
+number of branches found:  1
+
+precision for each branch: 
+(Montijo CON:ADM 182,Montijo CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#182) = 1.0
+(Pegões LOC:ADM 357311,Pegões LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#357311) = 1.0
+(Montijo LOC:ADM 356404,Montijo CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#182) = 0.922
+overall branch precision:  0.974
+
+

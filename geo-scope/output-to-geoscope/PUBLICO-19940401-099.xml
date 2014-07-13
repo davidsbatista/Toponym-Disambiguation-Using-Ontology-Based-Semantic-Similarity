@@ -1,0 +1,36 @@
+annotations found: 
+Torres Vedras CON:ADM 303
+Sobral CON:ADM 285
+Sobral de Monte Agraço CON:ADM 285
+Torres Vedras CON:ADM 303
+Sobral de Monte Agraço CON:ADM 285
+Torres Vedras CON:ADM 303
+Dois Portos FRG:ADM 3269
+Torres Vedras LOC:ADM 244523
+Sobral CON:ADM 285
+Dois Portos FRG:ADM 3269
+Patameira de baixo LOC:ADM 243708
+Torres Vedras CON:ADM 303
+Sobral de Monte Agraço CON:ADM 285
+Torres Vedras CON:ADM 303
+
+number of branches found:  1
+
+precision for each branch: 
+(Torres Vedras CON:ADM 303,Torres Vedras CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#303) = 1.0
+(Sobral CON:ADM 285,Sobral LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#217271) = 0.9
+(Sobral de Monte Agraço CON:ADM 285,Sobral de Monte Agraço CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#285) = 1.0
+(Torres Vedras CON:ADM 303,Torres Vedras CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#303) = 1.0
+(Sobral de Monte Agraço CON:ADM 285,Sobral de Monte Agraço CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#285) = 1.0
+(Torres Vedras CON:ADM 303,Torres Vedras CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#303) = 1.0
+(Dois Portos FRG:ADM 3269,Dois Portos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#243140) = 0.832
+(Torres Vedras LOC:ADM 244523,Torres Vedras CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#303) = 0.938
+(Sobral CON:ADM 285,Sobral LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#217271) = 0.9
+(Dois Portos FRG:ADM 3269,Dois Portos LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#243140) = 0.832
+(Patameira de baixo LOC:ADM 243708,Patameira de Baixo LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#243708) = 1.0
+(Torres Vedras CON:ADM 303,Torres Vedras CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#303) = 1.0
+(Sobral de Monte Agraço CON:ADM 285,Sobral de Monte Agraço CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#285) = 1.0
+(Torres Vedras CON:ADM 303,Torres Vedras CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#303) = 1.0
+overall branch precision:  0.957285714286
+
+

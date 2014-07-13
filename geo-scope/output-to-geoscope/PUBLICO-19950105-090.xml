@@ -1,0 +1,34 @@
+annotations found: 
+Valverde LOC:ADM 413026
+Canas de Santa Maria FRG:ADM 3210
+Tondela CON:ADM 300
+Tondela LOC:ADM 412790
+Viseu LOC:ADM 414911
+Tondela LOC:ADM 412790
+Caldas da Rainha LOC:ADM 164993
+Tondela LOC:ADM 412790
+Tondela LOC:ADM 412790
+Santa Maria FRG:ADM 3942
+Óbidos CON:ADM 348
+Vouzela LOC:ADM 417997
+Viseu LOC:ADM 414911
+Tondela LOC:ADM 412790
+
+number of branches found:  2
+
+precision for each branch: 
+(Valverde LOC:ADM 413026,Valverde LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#339743) = 0.856
+(Canas de Santa Maria FRG:ADM 3210,Canas de Santa Maria FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3210) = 1.0
+(Tondela CON:ADM 300,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 1.0
+(Tondela LOC:ADM 412790,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 0.914
+(Viseu LOC:ADM 414911,Viseu DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3972) = 0.947
+(Tondela LOC:ADM 412790,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 0.914
+(Caldas da Rainha LOC:ADM 164993,Caldas da Rainha CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#68) = 0.923
+(Tondela LOC:ADM 412790,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 0.914
+(Tondela LOC:ADM 412790,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 0.914
+(Santa Maria FRG:ADM 3942,Santa Maria FRG http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3942) = 1.0
+(Óbidos CON:ADM 348,Óbidos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#348) = 1.0
+(Vouzela LOC:ADM 417997,Vouzela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#344) = 0.895
+(Viseu LOC:ADM 414911,Viseu DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3972) = 0.947
+(Tondela LOC:ADM 412790,Tondela CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#300) = 0.914
+overall branch precision:  0.938428571429

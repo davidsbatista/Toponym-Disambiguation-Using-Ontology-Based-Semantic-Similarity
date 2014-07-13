@@ -1,0 +1,29 @@
+annotations found: 
+Braga CON:ADM 64
+Braga CON:ADM 64
+Braga CON:ADM 64
+Braga CON:ADM 64
+Oliveira do Bairro CON:ADM 205
+Aveiro CON:ADM 45
+Aveiro CON:ADM 45
+Albergaria-a-Velha CON:ADM 4
+São João da Madeira CON:ADM 290
+Aveiro DST:ADM 3944
+Vagos CON:ADM 308
+Aveiro CON:ADM 45
+Aveiro DST:ADM 3944
+
+(Braga CON:ADM 64,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.955
+(Braga CON:ADM 64,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.955
+(Braga CON:ADM 64,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.955
+(Braga CON:ADM 64,Braga DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3946) = 0.955
+(Oliveira do Bairro CON:ADM 205,Oliveira do Bairro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#205) = 1.0
+(Aveiro CON:ADM 45,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 1.0
+(Aveiro CON:ADM 45,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 1.0
+(Albergaria-a-Velha CON:ADM 4,Albergaria-a-Velha RUA http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#7806) = 0.979
+(São João da Madeira CON:ADM 290,São João da Madeira CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#290) = 1.0
+(Aveiro DST:ADM 3944,Aveiro DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3944) = 1.0
+(Vagos CON:ADM 308,Vagos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#308) = 1.0
+(Aveiro CON:ADM 45,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 1.0
+(Aveiro DST:ADM 3944,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 0.951
+overall branch precision:  0.980769230769

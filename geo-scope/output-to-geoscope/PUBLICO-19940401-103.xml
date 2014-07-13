@@ -1,0 +1,16 @@
+annotations found: 
+Tomar LOC:ADM 340999
+Setúbal DST:ADM 3969
+Montijo CON:ADM 182
+Montijo CON:ADM 182
+
+number of branches found:  1
+
+precision for each branch: 
+(Tomar LOC:ADM 340999,Tomar CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#299) = 0.916
+(Setúbal DST:ADM 3969,Setúbal DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3969) = 1.0
+(Montijo CON:ADM 182,Montijo CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#182) = 1.0
+(Montijo CON:ADM 182,Montijo CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#182) = 1.0
+overall branch precision:  0.979
+
+

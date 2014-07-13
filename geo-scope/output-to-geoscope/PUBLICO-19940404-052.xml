@@ -1,0 +1,12 @@
+annotations found: 
+Guarda LOC:ADM 135271
+Covilhã CON:ADM 98
+
+number of branches found:  1
+
+precision for each branch: 
+(Guarda LOC:ADM 135271,Guarda DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3963) = 0.933
+(Covilhã CON:ADM 98,Covilhã CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#98) = 1.0
+overall branch precision:  0.9665
+
+

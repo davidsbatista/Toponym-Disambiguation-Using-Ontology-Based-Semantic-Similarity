@@ -1,0 +1,27 @@
+annotations found: 
+Sagres LOC:ADM 132480
+Trancoso LOC:ADM 139338
+Lagos LOC:ADM 123711
+Sagres LOC:ADM 132480
+Balieira LOC:ADM 131028
+Sagres LOC:ADM 132480
+Sagres LOC:ADM 132480
+Lisboa LOC:ADM 196518
+Algarve PRO:ADM 418729
+Sagres LOC:ADM 132480
+Algarve PRO:ADM 418729
+Vila do Bispo CON:ADM 321
+
+(Sagres LOC:ADM 132480,Sagres LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#132480) = 1.0
+(Trancoso LOC:ADM 139338,Trancoso CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#304) = 0.929
+(Lagos LOC:ADM 123711,Lagos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#139) = 0.937
+(Sagres LOC:ADM 132480,Sagres LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#132480) = 1.0
+(Balieira LOC:ADM 131028,Balieira LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#131028) = 1.0
+(Sagres LOC:ADM 132480,Sagres LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#132480) = 1.0
+(Sagres LOC:ADM 132480,Sagres LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#132480) = 1.0
+(Lisboa LOC:ADM 196518,Lisboa DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3965) = 0.957
+(Algarve PRO:ADM 418729,Algarve PRO http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418729) = 1.0
+(Sagres LOC:ADM 132480,Sagres LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#132480) = 1.0
+(Algarve PRO:ADM 418729,Algarve NT3 http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#17) = 0.955
+(Vila do Bispo CON:ADM 321,Vila do Bispo CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#321) = 1.0
+overall branch precision:  0.9815

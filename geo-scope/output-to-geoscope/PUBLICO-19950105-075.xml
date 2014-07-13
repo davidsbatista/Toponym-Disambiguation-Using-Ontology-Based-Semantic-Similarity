@@ -1,0 +1,15 @@
+annotations found: 
+Bombarral LOC:ADM 163901
+Bombarral LOC:ADM 163901
+Cintrão LOC:ADM 164301
+Cintrão LOC:ADM 164301
+Bombarral LOC:ADM 163901
+Portugal PAI:ADM 418745
+
+(Bombarral LOC:ADM 163901,Bombarral LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#163901) = 1.0
+(Bombarral LOC:ADM 163901,Bombarral LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#163901) = 1.0
+(Cintrão LOC:ADM 164301,Cintrão LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#164301) = 1.0
+(Cintrão LOC:ADM 164301,Cintrão LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#164301) = 1.0
+(Bombarral LOC:ADM 163901,Bombarral CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#61) = 0.913
+(Portugal PAI:ADM 418745,Portugal PAI http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418745) = 1.0
+overall branch precision:  0.9855

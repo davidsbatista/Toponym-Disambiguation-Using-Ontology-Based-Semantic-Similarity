@@ -1,0 +1,14 @@
+annotations found: 
+Caldas da Rainha LOC:ADM 164993
+Caldas da Rainha LOC:ADM 164993
+Leiria LOC:ADM 169227
+Lisboa LOC:ADM 196518
+Gaeiras LOC:ADM 173564
+Caldas LOC:ADM 164993
+
+(Caldas da Rainha LOC:ADM 164993,Caldas da Rainha CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#68) = 0.923
+(Caldas da Rainha LOC:ADM 164993,Caldas da Rainha CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#68) = 0.923
+(Leiria LOC:ADM 169227,Leiria DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3964) = 0.951
+(Lisboa LOC:ADM 196518,Lisboa DST http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#3965) = 0.957
+(Gaeiras LOC:ADM 173564,Gaeiras LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#175583) = 0.846
+(Caldas LOC:ADM 164993,Caldas ZON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#392564) = 0.884

@@ -1,0 +1,19 @@
+annotations found: 
+Aveiro LOC:ADM 6934
+Vagos CON:ADM 308
+Oliveira do Bairro CON:ADM 205
+Vagos CON:ADM 308
+Ílhavo CON:ADM 347
+Aveiro CON:ADM 45
+Portugal PAI:ADM 418745
+Vagos CON:ADM 308
+
+(Aveiro LOC:ADM 6934,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 0.946
+(Vagos CON:ADM 308,Vagos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#308) = 1.0
+(Oliveira do Bairro CON:ADM 205,Oliveira do Bairro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#205) = 1.0
+(Vagos CON:ADM 308,Vagos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#308) = 1.0
+(Ílhavo CON:ADM 347,Ílhavo CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#347) = 1.0
+(Aveiro CON:ADM 45,Aveiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#45) = 1.0
+(Portugal PAI:ADM 418745,Portugal PAI http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#418745) = 1.0
+(Vagos CON:ADM 308,Vagos CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#308) = 1.0
+overall branch precision:  0.99325

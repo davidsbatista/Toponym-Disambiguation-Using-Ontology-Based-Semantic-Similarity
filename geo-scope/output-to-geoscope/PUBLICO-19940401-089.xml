@@ -1,0 +1,24 @@
+annotations found: 
+Verderena ZON:ADM 350797
+Barreiro CON:ADM 54
+Verderena ZON:ADM 350797
+Alhos Vedros FRG:ADM 2064
+Lavradio FRG:ADM 791
+Barreiro CON:ADM 54
+Barreiro LOC:ADM 350784
+Verderena ZON:ADM 350797
+Verderena ZON:ADM 350797
+
+(Verderena ZON:ADM 350797,Verderena ZON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#350797) = 1.0
+(Barreiro CON:ADM 54,Barreiro LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#350784) = 0.92
+(Verderena ZON:ADM 350797,Verderena ZON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#350797) = 1.0
+(Alhos Vedros FRG:ADM 2064,Alhos Vedros LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#353667) = 0.856
+(Lavradio FRG:ADM 791,Lavradio LOC http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#333515) = 0.848
+(Barreiro CON:ADM 54,Barreiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#54) = 1.0
+(Barreiro LOC:ADM 350784,Barreiro CON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#54) = 0.92
+(Verderena ZON:ADM 350797,Verderena ZON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#350797) = 1.0
+(Verderena ZON:ADM 350797,Verderena ZON http://xldb.di.fc.ul.pt/xldb/publications/2009/10/geo-net-pt-02#350797) = 1.0
+overall branch precision:  0.949333333333
+
+
+
