@@ -8,4 +8,4 @@ It is based on a Portuguese geographic ontology: `Geo-Net-PT02 <http://dmir.ines
 
 Reference
 =========
-D. Batista, J. Ferreira, F. Couto, and M. Silva, `Toponym Disambiguation Using Ontology-Based Semantic Similarity <http://webpages.fc.ul.pt/~fjcouto/files/conference%20dbatista-propor2012.pdf>`_ in Computational Processing of the Portuguese Language (PROPOR), p. #6, 2012
+David Batista, João Ferreira, Francisco Couto, and Mário Silva, `Toponym Disambiguation Using Ontology-Based Semantic Similarity <http://webpages.fc.ul.pt/~fjcouto/files/conference%20dbatista-propor2012.pdf>`_ in Computational Processing of the Portuguese Language (PROPOR), p. #6, 2012
