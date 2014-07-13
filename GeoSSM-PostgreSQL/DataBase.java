@@ -6,8 +6,8 @@ import java.sql.Statement;
 
 public class DataBase
 {
-	//PSQL connection variables
-	public Connection con = null;
+    //PSQL connection variables
+    public Connection con = null;
     public Statement state = null;
     
     //Default constructor
