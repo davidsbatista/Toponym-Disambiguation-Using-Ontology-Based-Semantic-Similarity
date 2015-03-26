@@ -1,4 +1,4 @@
-Toponyms disambiguation
+Toponym disambiguation
 =======================
 
 This is code to populate the database with Information Content, perform several semantic similarity measures, and perform experiments using a dataset of hand-annotated toponyms. 
@@ -6,6 +6,12 @@ This is code to populate the database with Information Content, perform several 
 It is based on a Portuguese geographic ontology: `Geo-Net-PT02 <http://dmir.inesc-id.pt/project/Geo-Net-PT_02_in_English>`_
 
 
-Reference
-=========
+References
+==========
 David Batista, João Ferreira, Francisco Couto, and Mário Silva, `Toponym Disambiguation Using Ontology-Based Semantic Similarity <http://webpages.fc.ul.pt/~fjcouto/files/conference%20dbatista-propor2012.pdf>`_ in Computational Processing of the Portuguese Language (PROPOR), p. #6, 2012
+
+Joao D Ferreira, David S Batista, Francisco M Couto, and Mário J Silva, `The Geo-Net-PT/Yahoo! GeoPlanet (TM) concordance <http://dx.doi.org/10455/6677>`_ Technical report, Universidade de Lisboa, 2010.
+
+ Geographic Signatures for Semantic Retrieval. David S Batista, Mário J Silva, Francisco M Couto, and Bibek Behera. In Proceedings of the 6th Workshop on Geographic Information Retrieval. ACM, 2010. [ bib ]
+
+Prospecção de Conceitos Geográficos na Web. David Soares Batista. Master's thesis, Universidade de Lisboa, 2009. [ bib | DOI ]  
