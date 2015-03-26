@@ -12,6 +12,6 @@ David Batista, João Ferreira, Francisco Couto, and Mário Silva, `Toponym Disam
 
 Joao D Ferreira, David S Batista, Francisco M Couto, and Mário J Silva, `The Geo-Net-PT/Yahoo! GeoPlanet (TM) concordance <http://dx.doi.org/10455/6677>`_ Technical report, Universidade de Lisboa, 2010.
 
-David S Batista, Mário J Silva, Francisco M Couto, and Bibek Behera, `Geographic Signatures for Semantic Retrieval <http://www.acm.org>`_ In Proceedings of the 6th Workshop on Geographic Information Retrieval. ACM, 2010.
+David S Batista, Mário J Silva, Francisco M Couto, and Bibek Behera, `Geographic Signatures for Semantic Retrieval <http://xldb.di.fc.ul.pt/xldb/publications/C_document.pdf>`_ In Proceedings of the 6th Workshop on Geographic Information Retrieval. ACM, 2010.
 
 David Soares Batista, `Prospecção de Conceitos Geográficos na Web <http://dx.doi.org/10451/4510>`_ Master's Thesis, Universidade de Lisboa, 2009.  
