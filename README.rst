@@ -1,10 +1,9 @@
 Toponym disambiguation
 =======================
 
-This is code to populate the database with Information Content, perform several semantic similarity measures, and perform experiments using a dataset of hand-annotated toponyms. 
+This is code to populate a database containing `Geo-Net-PT02 ontology <http://dmir.inesc-id.pt/project/Geo-Net-PT_02_in_English>`_ with Information Content and perform several semantic similarity measures, and perform experiments using a dataset of hand-annotated toponyms. 
 
-It is based on a Portuguese geographic ontology: `Geo-Net-PT02 <http://dmir.inesc-id.pt/project/Geo-Net-PT_02_in_English>`_
-
+Geo-CHAVE-PT01.zip is an annotated corpus which was used to evaluate which semantic similarity measure better disambiguates toponyms.
 
 References
 ==========
