@@ -14,4 +14,4 @@ Joao D Ferreira, David S Batista, Francisco M Couto, and Mário J Silva, `The Ge
 
 David S Batista, Mário J Silva, Francisco M Couto, and Bibek Behera, `Geographic Signatures for Semantic Retrieval <http://www.acm.org>`_ In Proceedings of the 6th Workshop on Geographic Information Retrieval. ACM, 2010.
 
-David Soares Batista, `Prospecção de Conceitos Geográficos na Web <http://dx.doi.org/10451/4510>` _ Master's Thesis, Universidade de Lisboa, 2009.  
+David Soares Batista, `Prospecção de Conceitos Geográficos na Web <http://dx.doi.org/10451/4510>`_ Master's Thesis, Universidade de Lisboa, 2009.  
