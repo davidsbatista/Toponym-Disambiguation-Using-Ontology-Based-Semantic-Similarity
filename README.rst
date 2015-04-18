@@ -1,4 +1,4 @@
-Toponym disambiguation
+Toponym Disambiguation
 =======================
 
 This is code to populate a database containing `Geo-Net-PT02 ontology <http://dmir.inesc-id.pt/project/Geo-Net-PT_02_in_English>`_ with Information Content and perform several semantic similarity measures, and perform experiments using a dataset of hand-annotated toponyms. 
